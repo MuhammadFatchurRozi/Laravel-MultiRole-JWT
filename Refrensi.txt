@@ -1,0 +1,2 @@
+https://dev.to/solomononuche/how-to-implement-jwt-auth-in-laravel-9-2mlm ---- Cara install JWT Laravel 5^
+https://medium.com/@JinoAntony/multi-user-api-authentication-using-laravel-jwt-8ae572b0c4cf -- Multi Auth JWT
